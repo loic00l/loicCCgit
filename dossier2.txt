@@ -1,3 +1,0 @@
-Prenom:Loic
-Nom:Wadje Ngossengue
-specialite:IA
